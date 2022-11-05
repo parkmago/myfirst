@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+
+<title>MBTI-ISTP</title>
+<meta charset="utf-8">
+<head>
+  <body>
+    안녕 나는 박정현이고 내 mbti는 <strong><u><a href="https://namu.wiki/w/ISTP" target="blank">istp</a></u></strong>야. istp에 대해 설명할께
+    <p>먼저 istp는 과묵하며 절제된 호기심으로 인생을 관찰하고,
+    <br>상황을 파악하는 민감성과 도구를 다루는 뛰어난 능력이 있다.
+    <br> 감각형(S) 중에서는 직관(N) 성향이 가장 강한 편
+    <br>가능한 에너지 소비를 하지 않으려 하며, 사실적 자료를 정리,
+    <br>3차 기능인 Ni(내향 직관)으로 눈치가 빠르며,
+    <br>조용히 자기 일만 하고 있는 것처럼 사실 주변 상황파악도 다 하고 있다.</p>
+    <img src="istp.jpg" width="400">
+  </body>
+
+</head>
+<h1><a href="#">과일</a></h1>
+
+<ol>
+  <li><a href="#">딸기</a></li>
+  <li><a href="#">초콜릿</a></li>
+  <li><a href="#">바나나</a></li>
+</ol>
+<h2>먹고싶은거</h2>
+<ol>
+  <li>고기</li>
+  <li>해산물</li>
+  <li>채소</li>
+</ol>
+
+</html>
